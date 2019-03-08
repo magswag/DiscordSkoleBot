@@ -22,6 +22,6 @@ Her er et eksempel:
 Det finnes to typer data-samlinger i JSON. Objekt og array, begge vist i eksempelet over. Et objekt er en samling av data-par, de kan også inneholde arrays. En array er en liste som kan inneholde fler objekter eller arrays, som videre kan inneholde enda flere objekter eller arrays.
 I eksempelet over, er "bøker" en array som inneholder 2 bøker. De to bøkene er hvert sitt objekt, med unike data.
 ## Når du redigerer
-Når du redigerer JSON-filer må du passe på at du ikke har noen syntaks-feil. Basically skrivefeil, men bare i koden. Du kan bruke [denne nettsiden](http://jsonviewer.stack.hu/) for å se JSON-filen på en mer visuell måte og for å sjekke om den har noen feil.
+Når du redigerer JSON-filer må du passe på at du ikke har noen syntaks-feil. Basically skrivefeil, men bare i koden. Du kan bruke [denne nettsiden](http://jsonviewer.stack.hu/) for å se JSON-filen på en mer visuell måte og for å sjekke om den har noen feil. Du må også ikke endre noen av navnene på data-parene som er der fra før av, for da må jeg endre koden til selve boten til det nye navnet. Men du kan fritt frem endre verdiene.
 
 Etter at du har lagret filen, tar det rundt 5 minutter før du ser oppdateringen i Discord.
