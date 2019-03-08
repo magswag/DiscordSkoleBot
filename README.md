@@ -1,5 +1,5 @@
 # Skole-discord bot
-Her blir noe av dataen, f.eks. teksten som blir sendt som melding når man bruker kommandoen !hjelp, lagret og hentet fra. Dataen er lagret i JSON-filer.
+Her blir noe av dataen, f.eks. teksten som blir sendt som melding når man bruker kommandoen <b>!hjelp</b>, lagret og hentet fra. Dataen er lagret i JSON-filer.
 ## Basics av JSON
 JSON er et filformat som lagrer data som et par, med navn og verdi.
 Her er et eksempel:
