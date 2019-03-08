@@ -7,14 +7,14 @@ Her er et eksempel:
 {
  "bøker" : [
   {
-  "tittel" : "Episk utrolig-amazing bok",
-   "sider" : 69,
-   "forfatter" : "Magswag"
+    "tittel" : "Episk utrolig-amazing bok",
+    "sider" : 69,
+    "forfatter" : "Magswag"
   },
   {
     "tittel" : "Blazing 420-bok",
-   "sider" : 420,
-   "forfatter" : "Mareliii"
+    "sider" : 420,
+    "forfatter" : "Mareliii"
   }
  ]
 }
