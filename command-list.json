@@ -1,5 +1,7 @@
 {
  "messagetitle" : "__**Her er alle kommandoene du kan bruke:**__",
+ "messageinfo" : "Her er info tekst yayeet mannen skrattar du førlorar du yaha.",
+ 
 "commands" : [
   {
    "command" : "**!hjelp**",
