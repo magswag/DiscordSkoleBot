@@ -1,6 +1,6 @@
 {
- "messageTitle" : "__**Hjelp:**__",
- "messageCommandsTitle" : "__**Her er alle kommandoene du kan bruke:**__",
+ "messageTitle" : "**Hjelp:**",
+ "messageCommandsTitle" : "**Her er alle kommandoene du kan bruke:**",
  "messageInfo" : "Her er info tekst yayeet mannen skrattar du førlorar du yaha.",
  
 "commands" : [
