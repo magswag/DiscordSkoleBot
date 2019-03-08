@@ -3,7 +3,7 @@ Her blir noe av dataen, f.eks. teksten som blir sendt som melding når man bruke
 ## Basics av JSON
 JSON er et filformat som lagrer data som et par, med navn og verdi.
 Her er et eksempel:
-```javascript
+```json
 "bøker" : [
  "Episk bok" : {
   "sider" : 69,
