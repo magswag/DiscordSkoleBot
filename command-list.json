@@ -1,0 +1,12 @@
+{
+"commands" : [
+  {
+   "command" : "**!hjelp**",
+   "description" : "Alle kommandoene du kan bruke."
+  },
+  {
+   "command" : "**!tidigjen**",
+   "description" : "Hvor lenge det er igjen av skoledagen."
+  }
+ ]
+}
