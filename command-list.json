@@ -1,4 +1,5 @@
 {
+ "message-title" : "__**Her er alle kommandoene du kan bruke:**__",
 "commands" : [
   {
    "command" : "**!hjelp**",
